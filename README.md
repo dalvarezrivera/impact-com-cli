@@ -25,7 +25,7 @@ Output:
 ║                                          ║
 ╚══════════════════════════════════════════╝
 
-  Hi impact.com — thanks for reading the bonus section.
+  Hi impact.com.
   — Daniel Alvarez
 ```
 
